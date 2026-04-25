@@ -1,7 +1,7 @@
 # 🎵 MAHIN Music Bot 🎵
 
 <p align="center">
-  <img src="ShrutiMusic/assets/equalizer.svg" width="100%" height="500">
+  <img src="MAHINMUSIC/assets/equalizer.svg" width="100%" height="500">
 </p>
 
 <div align="center">
@@ -289,7 +289,7 @@ Use our Session Generator Bot: [@Sessionbbbot](https://t.me/Sessionbbbot)
 
 <div align="center">
   
-**👨‍💻 Main Developer:** [NoxxOP](https://github.com/NoxxOP)
+**👨‍💻 Main Developer:** [MAHIN](https://github.com/spy-tool-999)
 
 **🙏 Special Thanks:** All contributors who helped make this project better
 
